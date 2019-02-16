@@ -1,0 +1,26 @@
+#tabs {
+        border-bottom: .5em solid #0033CC;
+        margin: 0;
+        padding: 0;
+}
+#tabs li {
+        display:inline;
+        border-top: .1em solid #03c;
+        border-left: .1em solid #03c;
+        border-right: .1em solid #03c;
+}
+#tabs li a {
+        text-decoration: none;
+        padding: 0.25em 1em;
+        color: #000;
+}
+
+#page2 #tabs li#about a, #page3 #tabs li#teaching a, #page4 #tabs li#research a, #page5 #tabs li#publications a, #page6 #tabs li#resource a, #page77 #tabs li#newss a, #page8 #tabs li#presentations a, #page9 #tabs li#services a {
+        padding: 0.25em 1em;
+        background-color: #03c;
+        color: #fff;
+}
+
+iframe[seamless] {
+    border: none;
+}
