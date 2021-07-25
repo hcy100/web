@@ -18,7 +18,7 @@ tempDiv.innerHTML = tempPhone;\
 <TD>\
 <b>Ching-yu (Austin) Huang, Ph.D.  黃清郁  博士</b>\
 <br>\
-Assistant Professor, \
+Associate Professor, \
 <a href="https://www.kean.edu/academics/programs/computer-science" target="_blank">School of Computer Science & Technology</a>, \
 <a href="http://www.kean.edu" target="_blank">Kean University</a>\
 <br>\
