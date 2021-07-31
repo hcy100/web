@@ -23,7 +23,7 @@ Associate Professor, \
 <a href="http://www.kean.edu" target="_blank">Kean University</a>\
 <br>\
 \
-Office: North Avenue Academic Building (NAAB) 235,  \
+Office: Green Lane Academic Building (GLAB) 217,  \
 Kean University, 1000 Morris Ave., Union, NJ 07083\
 <div id="myphone">\
 Phone: <a href="javascript:getPhone(\'myphone\',\'908\',\'737-6157\');">click to get phone number</a>\
