@@ -28,7 +28,6 @@ Kean University, 1000 Morris Ave., Union, NJ 07083\
 <div id="myphone">\
 Phone: <a href="javascript:getPhone(\'myphone\',\'908\',\'737-4710\');">click to get phone number</a>\
 </div>\
-Fax: (908)737-6165\
 <br> \
 <div id="myemail">\
 Email: <a href="javascript:getEmail(\'myemail\',\'chuang\',\'kean.edu\');">click to get email</a>\
